@@ -42,8 +42,17 @@ third file, I still need to think about how exactly I want to create
 an MxN spatial Gabor, but once that's implemented this code does the
 temporal Gabor using the feedback idea we'd spoken about.
 
+Screenshots
+-----------
+
+.. image:: ss-01.png
+
+.. image:: ss-02.png
+
+.. image:: ss-03.png
+
+
 Contact info
 ------------
 
-Siddharth Joshi
-sijoshi at ucsd
+Siddharth Joshi, sijoshi at ucsd
